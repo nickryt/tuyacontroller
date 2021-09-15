@@ -7,9 +7,9 @@ import time
 
 # ------------------------------------------ | TUYA APP INFORMATION
 
-DEVICE_ID = "eb4e8b866289ad2afebjqh"
-IP_ADDRESS = "192.168.86.25"
-LOCAL_KEY = "a8f4870056cd2250"
+DEVICE_ID = "xxxxx"
+IP_ADDRESS = "xxx.xxx.xxx.xxx"
+LOCAL_KEY = "xxxxx"
 LEDS = None
 
 # ------------------------------------------ | TKINTER GLOBAL VARIABLES
