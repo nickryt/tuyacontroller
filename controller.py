@@ -35,7 +35,6 @@ def connecttuya():
     LEDS.set_version(3.3)
     # data = LEDS.status() 
     # print('Dictionary %r' % data)
-    print('got here3')
     STATUS['text'] = 'CONNECTED'
     
 
